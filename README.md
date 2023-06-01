@@ -36,6 +36,10 @@ Gesture Recognition: The code currently detects two gestures - "ARM_RAISED" and 
 
 Drone Actions: The code currently performs actions based on the recognized gestures, such as taking off, landing, or changing the drone state. You can customize these actions to include additional drone commands or complex flight maneuvers. Refer to the Tello SDK documentation for a list of available commands and their usage.
 
+## **Hand Detection:**
+
+The Hand&ArmDetection.py file shows how to implement hand detection with the Tello, as well as arm detection if that suits your purposes.
+
 ## **Acknowledgements:**
 Special thanks to Professor Barner and Mohammed Baksh for their support throughout the process. Thank you to the developers of these libraries for providing the tools necessary to build this arm detection-based Tello drone control application.
 
