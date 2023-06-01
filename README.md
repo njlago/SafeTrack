@@ -24,6 +24,7 @@ Run the ArmDetection.py script using the following command:
 
 
 python ArmDetection.py
+
 A video stream window will open, displaying the Tello drone's camera feed.
 
 Stand in front of the camera with your arms visible.
