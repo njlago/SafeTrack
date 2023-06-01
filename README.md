@@ -46,7 +46,7 @@ Drone Actions: The code currently performs actions based on the recognized gestu
 The Hand&ArmDetection.py file shows how to implement hand detection with the Tello, as well as arm detection if that suits your purposes.
 
 ## **Acknowledgements:**
-Special thanks to Professor Barner and Mohammed Baksh for their support throughout the process. Thank you to the developers of these libraries for providing the tools necessary to build this arm detection-based Tello drone control application.
+Special thanks to Professor Barner and Mohammed Baksh for their support throughout the process. Thank you to the developers of these libraries for providing the tools necessary to build this arm detection-based drone application.
 
 ## **References:**
 Mediapipe
