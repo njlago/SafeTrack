@@ -6,9 +6,9 @@ This Python script enables you to control a Tello drone using arm gestures detec
 
 ## **Prerequisites:**
 Before running the code, ensure that you have the following prerequisites installed:
-Python 3.7 or higher
-OpenCV (cv2)
-Mediapipe
+Python 3.7 or higher,
+OpenCV (cv2),
+Mediapipe,
 DJITelloPy
 
 You can install the required packages using 'pip install opencv-python mediapipe djitellopy'
